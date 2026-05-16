@@ -1,0 +1,17 @@
+{
+  "name": "RemoraHQ - Auditor Role",
+  "shortName": "remoraAuditor",
+  "version": "0.1.0",
+  "description": "Server-side storage for the RemoraHQ Auditor role. Maintains a shared list of user-ids granted read-only audit + reports access. Broadcasts mutations so all admins see role changes in real time.",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/lockbb1/RemoraHQ-Auditor-Role-Plugins",
+  "changelogUrl": "https://github.com/lockbb1/RemoraHQ-Auditor-Role-Plugins/releases",
+  "configUrl": "https://raw.githubusercontent.com/lockbb1/RemoraHQ-Auditor-Role-Plugins/main/config.json",
+  "downloadUrl": "https://github.com/lockbb1/RemoraHQ-Auditor-Role-Plugins/archive/refs/heads/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lockbb1/RemoraHQ-Auditor-Role-Plugins.git"
+  },
+  "meshCentralCompat": ">=1.1.56",
+  "versionHistoryUrl": "https://api.github.com/repos/lockbb1/RemoraHQ-Auditor-Role-Plugins/tags"
+}

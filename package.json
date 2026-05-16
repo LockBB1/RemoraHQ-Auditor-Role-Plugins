@@ -1,0 +1,14 @@
+{
+  "name": "remorahq-auditor-role-plugins",
+  "version": "0.1.0",
+  "description": "RemoraHQ Auditor Role MeshCentral plugin",
+  "main": "remoraAuditor.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lockbb1/RemoraHQ-Auditor-Role-Plugins.git"
+  },
+  "engines": {
+    "meshcentral": ">=1.1.56"
+  }
+}
