@@ -1,6 +1,6 @@
 {
   "name": "remorahq-auditor-role-plugins",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "RemoraHQ Auditor Role MeshCentral plugin",
   "main": "remoraAuditor.js",
   "license": "Apache-2.0",
